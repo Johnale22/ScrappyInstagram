@@ -1,0 +1,8 @@
+# Seguridad
+cookies.json
+.env
+
+# Entorno Virtual
+venv/
+.venv/
+env/
