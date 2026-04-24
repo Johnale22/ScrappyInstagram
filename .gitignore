@@ -6,3 +6,5 @@ cookies.json
 venv/
 .venv/
 env/
+
+.gitignore

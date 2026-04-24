@@ -1,4 +1,4 @@
-# IG Deep Analyzer
+# Scrappy Instagram
 
 Herramienta web desarrollada en **Python** utilizando **Flask** y **Playwright** para realizar web scraping avanzado en Instagram. Este proyecto permite extraer las últimas 10 publicaciones de cualquier perfil público, analizar el uso de hashtags, detectar los emojis más frecuentes y visualizar el conteo de seguidores.
 
