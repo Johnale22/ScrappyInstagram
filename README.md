@@ -27,5 +27,5 @@ Siga estos pasos para desplegar el proyecto en un entorno local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+   git clone https://github.com/Johnale22/ScrappyInstagram.git
    cd nombre-del-repo
